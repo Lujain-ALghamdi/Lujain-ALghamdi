@@ -12,7 +12,6 @@
 ---
 
 ## About Me
-It's me **Lujain** 👩‍💻✨  
-
+It's me **Lujain Alghamdi** 👩‍💻✨  
 A Computer Science enthusiast who dreams of shaping the future through technology.
 I enjoy transforming ideas from the real world into creative digital experiences, solving complex problems, and continuously learning to build what once existed only in imagination. ✨🌙 
