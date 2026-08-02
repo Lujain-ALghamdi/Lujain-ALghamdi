@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3900&pause=10&color=997440&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I+am+LUJAIN+;Full-Stack+Developer+%7C+AI+Engineer;UI%2FUX+Designer+%7C+Data+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=997440&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Lujain+-+when+I'm+not+brewing+coffee%2C+I+brew+code.;Full-Stack+Developer+%7C+AI+Engineer+%7C+UI%2FUX+Designer+%7C+Data+Expert)](https://git.io/typing-svg)
 
 </div>
 
