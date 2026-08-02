@@ -5,10 +5,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=997440&width=435&lines=Hello+Everyone!;I+am+LUJAIN+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3900&pause=10&color=997440&center=true&vCenter=true&width=435&lines=Hello+Everyone!;I+am+LUJAIN+;Full-Stack+Developer+%7C+AI+Engineer;UI%2FUX+Designer+%7C+Data+Expert)](https://git.io/typing-svg)
 
 </div>
-## Hi there 👋
 
-It's me **Lujain** — a Computer Science student 👩‍💻✨  
-Passionate about coding, problem solving, UI/UX design, AI, cybersecurity, databases, web development, and creating meaningful tech solutions that make an impact 🚀 I enjoy learning new technologies, building creative projects, and turning ideas into real digital solutions.
+---
+
+## About Me
+It's me **Lujain** 👩‍💻✨  
+
+A Computer Science enthusiast who dreams of shaping the future through technology.
+I enjoy transforming ideas from the real world into creative digital experiences, solving complex problems, and continuously learning to build what once existed only in imagination. ✨🌙 
