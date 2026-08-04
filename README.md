@@ -16,6 +16,8 @@ I enjoy transforming ideas from the real world into creative digital experiences
 
 
 # My Favorite Tools and Technologies <img width="30" height="25" alt="parrot-party" src="https://github.com/user-attachments/assets/0a5b332a-99dc-4baf-93d1-256766e37039" />
+
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
