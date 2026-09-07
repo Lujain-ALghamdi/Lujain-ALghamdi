@@ -16,7 +16,7 @@ I enjoy transforming ideas from the real world into creative digital experiences
 
 ## My Favorite Tools and Technologies <img width="30" height="25" alt="parrot-party" src="https://github.com/user-attachments/assets/0a5b332a-99dc-4baf-93d1-256766e37039" />  
 
-<b><b>
+<br />
 
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -84,8 +84,6 @@ I enjoy transforming ideas from the real world into creative digital experiences
     </td>
  </tr>
 </table>
-<br><br>
-
 
 </div>
 
@@ -96,5 +94,7 @@ I enjoy transforming ideas from the real world into creative digital experiences
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lujain-a-alghamdi-0b26ba367/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lujain-ALghamdi)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lujain.a.a.alghamdi@gmail.com)
+
+🤍 Feel free to **follow me** - I’d really appreciate your support! 🤍 <br />
 
 </div>
