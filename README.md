@@ -13,7 +13,8 @@ It's me **Lujain Alghamdi**,  A Computer Science enthusiast who dreams of shapin
 I enjoy transforming ideas from the real world into creative digital experiences, solving complex problems, and continuously learning to build what once existed only in imagination.
 
 
-# My Favorite Tools and Technologies <img width="30" height="25" alt="parrot-party" src="https://github.com/user-attachments/assets/0a5b332a-99dc-4baf-93d1-256766e37039" />
+# My Favorite Tools and Technologies <img width="30" height="25" alt="parrot-party" src="https://github.com/user-attachments/assets/0a5b332a-99dc-4baf-93d1-256766e37039" />  
+
 
 
 <div style="display: flex; align-items: flex-start; align: center">
