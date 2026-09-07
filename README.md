@@ -18,7 +18,6 @@ I enjoy transforming ideas from the real world into creative digital experiences
 
 <br />
 
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -86,15 +85,13 @@ I enjoy transforming ideas from the real world into creative digital experiences
 </table>
 
 </div>
-
-## Contact me
-
+<br>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lujain-a-alghamdi-0b26ba367/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lujain-ALghamdi)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lujain.a.a.alghamdi@gmail.com)
 
-🤍 Feel free to **follow me** - I’d really appreciate your support! 🤍 <br />
+🤍 Feel free to **follow me** - I’d really appreciate your support! 🤍 
 
 </div>
